@@ -5,158 +5,120 @@
     <company>Ландшафтная студия ФОРМА</company>
     <url>https://forma-studio.pro/</url>
     <email>forma-studio.pro@yandex.com</email>
+
     <currencies>
       <currency id="RUR" rate="1"/>
     </currencies>
+
     <categories>
       <category id="1">Исполнитель</category>
-      <category id="11" parentId="1">Ремонт и строительство</category>
       <category id="19" parentId="1">Дизайнеры</category>
     </categories>
+
     <sets>
       <set id="s1" url="https://forma-studio.pro/">Ландшафтная архитектура частных садов</set>
     </sets>
+
     <offers>
+
       <offer id="forma001">
-        <name>Ландшафтная студия ФОРМА</name>
+        <name>Ландшафтный дизайн участка во Владимирской и Московской области</name>
         <url>https://forma-studio.pro/?offer=landscape-design</url>
-        <price from="true">30000</price>
         <currencyId>RUR</currencyId>
         <categoryId>19</categoryId>
         <set-ids>s1</set-ids>
-        <picture>https://forma-studio.pro/yml/offer-landscape-design.png</picture>
-        <description>Ландшафтный дизайн участка и проектирование частных садов. Формирование планировочной структуры, функциональных зон и образа пространства.</description>
-        <param name="Рейтинг">0</param>
-        <param name="Число отзывов">0</param>
-        <param name="Годы опыта">0</param>
-        <param name="Регион">Владимирская область, Кольчугино</param>
-        <param name="Конверсия">100</param>
+        <description>Ландшафтный дизайн участка под ключ. Проектирование частных садов, функциональное зонирование, структура пространства и формирование целостной архитектуры участка.</description>
+        <param name="Регион">Владимир, Владимирская область, Московская область, Иваново, Ивановская область</param>
         <param name="Ссылка на телефон">tel:+79005816669</param>
         <param name="Ссылка на профиль исполнителя">https://forma-studio.pro/</param>
-        <param name="Исполнитель проверен">false</param>
         <param name="Организация">true</param>
         <param name="Выполняется удаленно">true</param>
-        <param name="Выполняется по адресу исполнителя">false</param>
         <param name="Выполняется по адресу заказчика">true</param>
-        <param name="Бригада">false</param>
-        <param name="Об исполнителе">Ландшафтная студия ФОРМА. Проектирование, детальная 3D-визуализация и авторское сопровождение реализации частных садов.</param>
-        <param name="Другая услуга исполнителя - 1">3D-визуализация участка</param>
-        <param name="Другая услуга исполнителя - 2">Рабочая документация</param>
-        <param name="Другая услуга исполнителя - 3">Авторское сопровождение</param>
-        <sales_notes>Минимальная стоимость проекта от 30 000 ₽. Итоговая цена зависит от площади участка, рельефа и состава работ.</sales_notes>
+        <param name="Об исполнителе">Ландшафтная студия ФОРМА. Проектирование частных садов, 3D-визуализация и авторское сопровождение реализации.</param>
+        <sales_notes>Стоимость проекта зависит от площади участка, рельефа, задач и состава проектных решений.</sales_notes>
       </offer>
 
       <offer id="forma002">
-        <name>Ландшафтная студия ФОРМА</name>
-        <url>https://forma-studio.pro/?offer=3d-visualization</url>
-        <price from="true">30000</price>
+        <name>Проектирование участка и частного сада</name>
+        <url>https://forma-studio.pro/?offer=site-planning</url>
         <currencyId>RUR</currencyId>
         <categoryId>19</categoryId>
         <set-ids>s1</set-ids>
-        <picture>https://forma-studio.pro/yml/offer-3d-visualization.png</picture>
-        <description>Детальная 3D-визуализация будущего сада и участка. Помогает проверить масштаб, структуру пространства и проектные решения до реализации.</description>
-        <param name="Рейтинг">0</param>
-        <param name="Число отзывов">0</param>
-        <param name="Годы опыта">0</param>
-        <param name="Регион">Владимирская область, Кольчугино</param>
-        <param name="Конверсия">95</param>
+        <description>Проектирование участка с учетом сценариев использования, маршрутов движения, функциональных зон и логики пространства.</description>
+        <param name="Регион">Владимир, Владимирская область, Московская область, Иваново, Ивановская область</param>
         <param name="Ссылка на телефон">tel:+79005816669</param>
         <param name="Ссылка на профиль исполнителя">https://forma-studio.pro/</param>
-        <param name="Исполнитель проверен">false</param>
         <param name="Организация">true</param>
         <param name="Выполняется удаленно">true</param>
-        <param name="Выполняется по адресу исполнителя">false</param>
-        <param name="Выполняется по адресу заказчика">false</param>
-        <param name="Бригада">false</param>
-        <param name="Об исполнителе">ФОРМА разрабатывает реалистичные визуализации для частных садов, чтобы заказчик видел пространство до начала работ.</param>
-        <param name="Другая услуга исполнителя - 1">Ландшафтный дизайн участка</param>
-        <param name="Другая услуга исполнителя - 2">Рабочая документация</param>
-        <sales_notes>Минимальная стоимость проекта от 30 000 ₽. Стоимость зависит от состава проектных материалов.</sales_notes>
+        <param name="Выполняется по адресу заказчика">true</param>
+        <param name="Об исполнителе">ФОРМА формирует основу пространства участка до этапа реализации.</param>
+        <sales_notes>Стоимость проектирования зависит от площади участка и глубины проработки проекта.</sales_notes>
       </offer>
 
       <offer id="forma003">
-        <name>Ландшафтная студия ФОРМА</name>
-        <url>https://forma-studio.pro/?offer=author-supervision</url>
-        <price from="true">30000</price>
+        <name>3D визуализация ландшафтного проекта</name>
+        <url>https://forma-studio.pro/?offer=3d-visualization</url>
         <currencyId>RUR</currencyId>
         <categoryId>19</categoryId>
         <set-ids>s1</set-ids>
-        <picture>https://forma-studio.pro/yml/offer-author-supervision.png</picture>
-        <description>Авторское сопровождение реализации. Контроль соответствия выполнения проектным решениям и консультационная поддержка на этапе строительства.</description>
-        <param name="Рейтинг">0</param>
-        <param name="Число отзывов">0</param>
-        <param name="Годы опыта">0</param>
-        <param name="Регион">Владимирская область, Кольчугино</param>
-        <param name="Конверсия">90</param>
+        <description>Фотореалистичная 3D визуализация участка до реализации. Позволяет проверить масштаб, композицию и решения до начала работ.</description>
+        <param name="Регион">Владимир, Владимирская область, Московская область, Иваново, Ивановская область</param>
         <param name="Ссылка на телефон">tel:+79005816669</param>
         <param name="Ссылка на профиль исполнителя">https://forma-studio.pro/</param>
-        <param name="Исполнитель проверен">false</param>
         <param name="Организация">true</param>
-        <param name="Выполняется удаленно">false</param>
-        <param name="Выполняется по адресу исполнителя">false</param>
-        <param name="Выполняется по адресу заказчика">true</param>
-        <param name="Бригада">false</param>
-        <param name="Об исполнителе">ФОРМА сопровождает реализацию проекта и помогает сохранить качество решений на объекте.</param>
-        <param name="Другая услуга исполнителя - 1">Рабочая документация</param>
-        <param name="Другая услуга исполнителя - 2">Благоустройство участка</param>
-        <sales_notes>Стоимость рассчитывается индивидуально. Итоговая цена зависит от формата сопровождения и удаленности объекта.</sales_notes>
+        <param name="Выполняется удаленно">true</param>
+        <param name="Об исполнителе">ФОРМА создает визуализации, позволяющие увидеть будущий сад до начала реализации.</param>
+        <sales_notes>Стоимость зависит от площади участка и количества видовых точек.</sales_notes>
       </offer>
 
       <offer id="forma004">
-        <name>Ландшафтная студия ФОРМА</name>
-        <url>https://forma-studio.pro/?offer=improvement</url>
-        <price from="true">30000</price>
-        <currencyId>RUR</currencyId>
-        <categoryId>11</categoryId>
-        <set-ids>s1</set-ids>
-        <picture>https://forma-studio.pro/yml/offer-improvement.png</picture>
-        <description>Благоустройство участка и реализация проектных решений. Организация пространства, покрытия, посадки, освещение и работы по созданию сада.</description>
-        <param name="Рейтинг">0</param>
-        <param name="Число отзывов">0</param>
-        <param name="Годы опыта">0</param>
-        <param name="Регион">Владимирская область, Кольчугино</param>
-        <param name="Конверсия">92</param>
-        <param name="Ссылка на телефон">tel:+79005816669</param>
-        <param name="Ссылка на профиль исполнителя">https://forma-studio.pro/</param>
-        <param name="Исполнитель проверен">false</param>
-        <param name="Организация">true</param>
-        <param name="Выполняется удаленно">false</param>
-        <param name="Выполняется по адресу исполнителя">false</param>
-        <param name="Выполняется по адресу заказчика">true</param>
-        <param name="Бригада">true</param>
-        <param name="Об исполнителе">ФОРМА занимается реализацией и координацией благоустройства частных садов с учетом проектной логики участка.</param>
-        <param name="Другая услуга исполнителя - 1">Авторское сопровождение</param>
-        <param name="Другая услуга исполнителя - 2">Рабочая документация</param>
-        <sales_notes>Минимальная стоимость проекта от 30 000 ₽. Бюджет реализации зависит от площади, состава работ и материалов.</sales_notes>
-      </offer>
-
-      <offer id="forma005">
-        <name>Ландшафтная студия ФОРМА</name>
+        <name>Рабочая документация для ландшафтного проекта</name>
         <url>https://forma-studio.pro/?offer=working-docs</url>
-        <price from="true">30000</price>
         <currencyId>RUR</currencyId>
         <categoryId>19</categoryId>
         <set-ids>s1</set-ids>
-        <picture>https://forma-studio.pro/yml/offer-working-docs.png</picture>
-        <description>Рабочая документация для реализации ландшафтного проекта: генплан, освещение, дренажные решения, схемы посадок, ведомости и спецификации.</description>
-        <param name="Рейтинг">0</param>
-        <param name="Число отзывов">0</param>
-        <param name="Годы опыта">0</param>
-        <param name="Регион">Владимирская область, Кольчугино</param>
-        <param name="Конверсия">94</param>
+        <description>Рабочие чертежи и документация для реализации: генплан, освещение, дренаж, посадки, спецификации.</description>
+        <param name="Регион">Владимир, Владимирская область, Московская область, Иваново, Ивановская область</param>
         <param name="Ссылка на телефон">tel:+79005816669</param>
         <param name="Ссылка на профиль исполнителя">https://forma-studio.pro/</param>
-        <param name="Исполнитель проверен">false</param>
         <param name="Организация">true</param>
         <param name="Выполняется удаленно">true</param>
-        <param name="Выполняется по адресу исполнителя">false</param>
-        <param name="Выполняется по адресу заказчика">false</param>
-        <param name="Бригада">false</param>
-        <param name="Об исполнителе">ФОРМА разрабатывает рабочие чертежи и спецификации, необходимые для качественной реализации проекта на участке.</param>
-        <param name="Другая услуга исполнителя - 1">Ландшафтный дизайн участка</param>
-        <param name="Другая услуга исполнителя - 2">Авторское сопровождение</param>
-        <sales_notes>Минимальная стоимость проекта от 30 000 ₽. Итоговая цена зависит от состава документации.</sales_notes>
+        <param name="Об исполнителе">ФОРМА разрабатывает документацию, необходимую для качественной реализации проекта.</param>
+        <sales_notes>Стоимость зависит от состава проектной документации и площади участка.</sales_notes>
       </offer>
+
+      <offer id="forma005">
+        <name>Авторское сопровождение ландшафтного проекта</name>
+        <url>https://forma-studio.pro/?offer=author-supervision</url>
+        <currencyId>RUR</currencyId>
+        <categoryId>19</categoryId>
+        <set-ids>s1</set-ids>
+        <description>Контроль реализации проекта и консультации на этапе выполнения работ. Помогает сохранить проектную идею на объекте.</description>
+        <param name="Регион">Владимир, Владимирская область, Московская область, Иваново, Ивановская область</param>
+        <param name="Ссылка на телефон">tel:+79005816669</param>
+        <param name="Ссылка на профиль исполнителя">https://forma-studio.pro/</param>
+        <param name="Организация">true</param>
+        <param name="Выполняется по адресу заказчика">true</param>
+        <param name="Об исполнителе">ФОРМА сопровождает реализацию проекта и помогает сохранить качество решений.</param>
+        <sales_notes>Стоимость зависит от формата сопровождения и удаленности объекта.</sales_notes>
+      </offer>
+
+      <offer id="forma006">
+        <name>Ландшафтная архитектура частного сада</name>
+        <url>https://forma-studio.pro/?offer=landscape-architecture</url>
+        <currencyId>RUR</currencyId>
+        <categoryId>19</categoryId>
+        <set-ids>s1</set-ids>
+        <description>Проектирование частного сада как целостного пространства: структура, сценарии, композиция и связь с архитектурой дома.</description>
+        <param name="Регион">Владимир, Владимирская область, Московская область, Иваново, Ивановская область</param>
+        <param name="Ссылка на телефон">tel:+79005816669</param>
+        <param name="Ссылка на профиль исполнителя">https://forma-studio.pro/</param>
+        <param name="Организация">true</param>
+        <param name="Выполняется удаленно">true</param>
+        <param name="Об исполнителе">ФОРМА работает на пересечении архитектуры и природы, создавая целостные пространства.</param>
+        <sales_notes>Стоимость проекта зависит от сложности участка и архитектурной задачи.</sales_notes>
+      </offer>
+
     </offers>
   </shop>
 </yml_catalog>
