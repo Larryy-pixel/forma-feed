@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<yml_catalog date="2026-03-29 19:00">
+<yml_catalog date="2026-03-30 18:30">
   <shop>
     <name>ФОРМА</name>
     <company>Ландшафтная студия ФОРМА</company>
@@ -15,16 +15,19 @@
     </categories>
 
     <offers>
+
       <offer id="forma001">
         <name>Ландшафтный дизайн во Владимире и области — студия ФОРМА</name>
         <url>https://forma-studio.pro/landshaftnyj-dizajn-vladimir</url>
+        <picture>https://optim.tildacdn.com/tild3061-6135-4366-b039-666130643663/-/format/webp/3.png.webp</picture>
         <categoryId>19</categoryId>
-        <description>Ландшафтная архитектура частных садов во Владимирской и Московской области. Архитектурный подход, продуманная структура пространства, 3D-визуализация и авторское сопровождение реализации.</description>
+        <description>Ландшафтный дизайн частных садов во Владимире и области. Архитектурный подход, продуманная структура пространства, 3D-визуализация и авторское сопровождение реализации.</description>
       </offer>
 
       <offer id="forma002">
         <name>Ландшафтный дизайн во Владимирской области — студия ФОРМА</name>
         <url>https://forma-studio.pro/landshaftnyj-dizajn-vladimirskaya-oblast</url>
+        <picture>https://optim.tildacdn.com/tild6261-3233-4432-b066-363962636632/-/format/webp/photo.jpg.webp</picture>
         <categoryId>19</categoryId>
         <description>Проектирование частных садов во Владимирской области. Концепция, планировка, 3D-визуализация и рабочая документация.</description>
       </offer>
@@ -32,6 +35,7 @@
       <offer id="forma003">
         <name>Ландшафтный дизайн в Московской области — студия ФОРМА</name>
         <url>https://forma-studio.pro/landshaftnyj-dizajn-moskovskaya-oblast</url>
+        <picture>https://optim.tildacdn.com/tild6634-6662-4135-a365-313832353465/-/format/webp/458.jpg.webp</picture>
         <categoryId>19</categoryId>
         <description>Ландшафтный дизайн частных садов в Московской области. Проектирование, визуализация и сопровождение реализации.</description>
       </offer>
@@ -39,23 +43,27 @@
       <offer id="forma004">
         <name>3D-визуализация ландшафтного проекта</name>
         <url>https://forma-studio.pro/?offer=3d-visualization</url>
+        <picture>https://optim.tildacdn.com/tild3735-6538-4033-a331-626262613231/-/format/webp/4.png.webp</picture>
         <categoryId>19</categoryId>
         <description>Фотореалистичная 3D-визуализация сада и участка до начала реализации. Помогает проверить масштаб, композицию и проектные решения.</description>
       </offer>
 
       <offer id="forma005">
+        <name>Авторское сопровождение ландшафтного проекта</name>
+        <url>https://forma-studio.pro/?offer=author-supervision</url>
+        <picture>https://static.tildacdn.com/tild6634-3438-4133-a230-633832386263/999.jpg</picture>
+        <categoryId>19</categoryId>
+        <description>Авторское сопровождение реализации ландшафтного проекта. Контроль соответствия работ проектным решениям и консультации на этапе реализации.</description>
+      </offer>
+
+      <offer id="forma006">
         <name>Рабочая документация для ландшафтного проекта</name>
         <url>https://forma-studio.pro/?offer=working-docs</url>
+        <picture>https://static.tildacdn.com/tild3330-6236-4431-b161-653930613834/69ca6a47f8d9b595a862.jpg</picture>
         <categoryId>19</categoryId>
         <description>Рабочая документация для реализации ландшафтного проекта: генплан, схемы покрытий, освещения, дренажа, посадок и спецификации.</description>
       </offer>
 
-      <offer id="forma006">
-        <name>Авторское сопровождение ландшафтного проекта</name>
-        <url>https://forma-studio.pro/?offer=author-supervision</url>
-        <categoryId>19</categoryId>
-        <description>Авторское сопровождение реализации ландшафтного проекта. Контроль соответствия работ проектным решениям и консультации на этапе реализации.</description>
-      </offer>
     </offers>
   </shop>
 </yml_catalog>
