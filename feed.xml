@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<yml_catalog date="2026-03-27 12:02">
+<yml_catalog date="2026-03-29 19:00">
   <shop>
     <name>ФОРМА</name>
     <company>Ландшафтная студия ФОРМА</company>
@@ -11,112 +11,51 @@
     </currencies>
 
     <categories>
-      <category id="1">Исполнитель</category>
-      <category id="19" parentId="1">Дизайнеры</category>
+      <category id="19">Дизайнеры</category>
     </categories>
-
-    <sets>
-      <set id="s1" url="https://forma-studio.pro/">Ландшафтная архитектура частных садов</set>
-    </sets>
 
     <offers>
 
       <offer id="forma001">
-        <name>Ландшафтный дизайн участка во Владимирской и Московской области</name>
-        <url>https://forma-studio.pro/?offer=landscape-design</url>
-        <currencyId>RUR</currencyId>
+        <name>Ландшафтный дизайн во Владимире и области — студия ФОРМА</name>
+        <url>https://forma-studio.pro/landshaftnyj-dizajn-vladimir</url>
         <categoryId>19</categoryId>
-        <set-ids>s1</set-ids>
-        <description>Ландшафтный дизайн участка под ключ. Проектирование частных садов, функциональное зонирование, структура пространства и формирование целостной архитектуры участка.</description>
-        <param name="Регион">Владимир, Владимирская область, Московская область, Иваново, Ивановская область</param>
-        <param name="Ссылка на телефон">tel:+79005816669</param>
-        <param name="Ссылка на профиль исполнителя">https://forma-studio.pro/</param>
-        <param name="Организация">true</param>
-        <param name="Выполняется удаленно">true</param>
-        <param name="Выполняется по адресу заказчика">true</param>
-        <param name="Об исполнителе">Ландшафтная студия ФОРМА. Проектирование частных садов, 3D-визуализация и авторское сопровождение реализации.</param>
-        <sales_notes>Стоимость проекта зависит от площади участка, рельефа, задач и состава проектных решений.</sales_notes>
+        <description>Ландшафтный дизайн частных садов во Владимире и Московской области. Архитектурный подход, продуманная структура пространства, 3D-визуализация и авторское сопровождение реализации.</description>
       </offer>
 
       <offer id="forma002">
-        <name>Проектирование участка и частного сада</name>
-        <url>https://forma-studio.pro/?offer=site-planning</url>
-        <currencyId>RUR</currencyId>
+        <name>Ландшафтный дизайн во Владимирской области — студия ФОРМА</name>
+        <url>https://forma-studio.pro/landshaftnyj-dizajn-vladimirskaya-oblast</url>
         <categoryId>19</categoryId>
-        <set-ids>s1</set-ids>
-        <description>Проектирование участка с учетом сценариев использования, маршрутов движения, функциональных зон и логики пространства.</description>
-        <param name="Регион">Владимир, Владимирская область, Московская область, Иваново, Ивановская область</param>
-        <param name="Ссылка на телефон">tel:+79005816669</param>
-        <param name="Ссылка на профиль исполнителя">https://forma-studio.pro/</param>
-        <param name="Организация">true</param>
-        <param name="Выполняется удаленно">true</param>
-        <param name="Выполняется по адресу заказчика">true</param>
-        <param name="Об исполнителе">ФОРМА формирует основу пространства участка до этапа реализации.</param>
-        <sales_notes>Стоимость проектирования зависит от площади участка и глубины проработки проекта.</sales_notes>
+        <description>Проектирование частных садов во Владимирской области. Концепция, планировка, 3D-визуализация и рабочая документация.</description>
       </offer>
 
       <offer id="forma003">
-        <name>3D визуализация ландшафтного проекта</name>
-        <url>https://forma-studio.pro/?offer=3d-visualization</url>
-        <currencyId>RUR</currencyId>
+        <name>Ландшафтный дизайн в Московской области — студия ФОРМА</name>
+        <url>https://forma-studio.pro/landshaftnyj-dizajn-moskovskaya-oblast</url>
         <categoryId>19</categoryId>
-        <set-ids>s1</set-ids>
-        <description>Фотореалистичная 3D визуализация участка до реализации. Позволяет проверить масштаб, композицию и решения до начала работ.</description>
-        <param name="Регион">Владимир, Владимирская область, Московская область, Иваново, Ивановская область</param>
-        <param name="Ссылка на телефон">tel:+79005816669</param>
-        <param name="Ссылка на профиль исполнителя">https://forma-studio.pro/</param>
-        <param name="Организация">true</param>
-        <param name="Выполняется удаленно">true</param>
-        <param name="Об исполнителе">ФОРМА создает визуализации, позволяющие увидеть будущий сад до начала реализации.</param>
-        <sales_notes>Стоимость зависит от площади участка и количества видовых точек.</sales_notes>
+        <description>Ландшафтный дизайн частных садов в Московской области. Проектирование, визуализация и сопровождение реализации.</description>
       </offer>
 
       <offer id="forma004">
-        <name>Рабочая документация для ландшафтного проекта</name>
-        <url>https://forma-studio.pro/?offer=working-docs</url>
-        <currencyId>RUR</currencyId>
+        <name>3D-визуализация ландшафтного проекта</name>
+        <url>https://forma-studio.pro/?offer=3d-visualization</url>
         <categoryId>19</categoryId>
-        <set-ids>s1</set-ids>
-        <description>Рабочие чертежи и документация для реализации: генплан, освещение, дренаж, посадки, спецификации.</description>
-        <param name="Регион">Владимир, Владимирская область, Московская область, Иваново, Ивановская область</param>
-        <param name="Ссылка на телефон">tel:+79005816669</param>
-        <param name="Ссылка на профиль исполнителя">https://forma-studio.pro/</param>
-        <param name="Организация">true</param>
-        <param name="Выполняется удаленно">true</param>
-        <param name="Об исполнителе">ФОРМА разрабатывает документацию, необходимую для качественной реализации проекта.</param>
-        <sales_notes>Стоимость зависит от состава проектной документации и площади участка.</sales_notes>
+        <description>Фотореалистичная 3D-визуализация сада и участка до начала реализации. Помогает проверить масштаб, композицию и проектные решения.</description>
       </offer>
 
       <offer id="forma005">
-        <name>Авторское сопровождение ландшафтного проекта</name>
-        <url>https://forma-studio.pro/?offer=author-supervision</url>
-        <currencyId>RUR</currencyId>
+        <name>Рабочая документация для ландшафтного проекта</name>
+        <url>https://forma-studio.pro/?offer=working-docs</url>
         <categoryId>19</categoryId>
-        <set-ids>s1</set-ids>
-        <description>Контроль реализации проекта и консультации на этапе выполнения работ. Помогает сохранить проектную идею на объекте.</description>
-        <param name="Регион">Владимир, Владимирская область, Московская область, Иваново, Ивановская область</param>
-        <param name="Ссылка на телефон">tel:+79005816669</param>
-        <param name="Ссылка на профиль исполнителя">https://forma-studio.pro/</param>
-        <param name="Организация">true</param>
-        <param name="Выполняется по адресу заказчика">true</param>
-        <param name="Об исполнителе">ФОРМА сопровождает реализацию проекта и помогает сохранить качество решений.</param>
-        <sales_notes>Стоимость зависит от формата сопровождения и удаленности объекта.</sales_notes>
+        <description>Рабочая документация для реализации ландшафтного проекта: генплан, схемы покрытий, освещения, дренажа, посадок и спецификации.</description>
       </offer>
 
       <offer id="forma006">
-        <name>Ландшафтная архитектура частного сада</name>
-        <url>https://forma-studio.pro/?offer=landscape-architecture</url>
-        <currencyId>RUR</currencyId>
+        <name>Авторское сопровождение ландшафтного проекта</name>
+        <url>https://forma-studio.pro/?offer=author-supervision</url>
         <categoryId>19</categoryId>
-        <set-ids>s1</set-ids>
-        <description>Проектирование частного сада как целостного пространства: структура, сценарии, композиция и связь с архитектурой дома.</description>
-        <param name="Регион">Владимир, Владимирская область, Московская область, Иваново, Ивановская область</param>
-        <param name="Ссылка на телефон">tel:+79005816669</param>
-        <param name="Ссылка на профиль исполнителя">https://forma-studio.pro/</param>
-        <param name="Организация">true</param>
-        <param name="Выполняется удаленно">true</param>
-        <param name="Об исполнителе">ФОРМА работает на пересечении архитектуры и природы, создавая целостные пространства.</param>
-        <sales_notes>Стоимость проекта зависит от сложности участка и архитектурной задачи.</sales_notes>
+        <description>Авторское сопровождение реализации ландшафтного проекта. Контроль соответствия работ проектным решениям и консультации на этапе реализации.</description>
       </offer>
 
     </offers>
