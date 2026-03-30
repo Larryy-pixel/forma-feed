@@ -15,7 +15,6 @@
     </categories>
 
     <offers>
-
       <offer id="forma001">
         <name>Ландшафтный дизайн во Владимире и области — студия ФОРМА</name>
         <url>https://forma-studio.pro/landshaftnyj-dizajn-vladimir</url>
@@ -57,7 +56,6 @@
         <categoryId>19</categoryId>
         <description>Авторское сопровождение реализации ландшафтного проекта. Контроль соответствия работ проектным решениям и консультации на этапе реализации.</description>
       </offer>
-
     </offers>
   </shop>
 </yml_catalog>
