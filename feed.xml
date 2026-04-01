@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<yml_catalog date="2026-03-30 18:50">
+<yml_catalog date="2026-03-31 19:30">
   <shop>
     <name>ФОРМА</name>
     <company>Ландшафтная студия ФОРМА</company>
@@ -15,10 +15,6 @@
       <category id="19" parentId="1">Дизайнеры</category>
     </categories>
 
-    <sets>
-      <set id="s1">Ландшафтная архитектура частных садов</set>
-    </sets>
-
     <offers>
       <offer id="forma001">
         <name>Студия ФОРМА</name>
@@ -26,7 +22,6 @@
         <price from="true">30000</price>
         <currencyId>RUR</currencyId>
         <categoryId>19</categoryId>
-        <set-ids>s1</set-ids>
         <picture>https://optim.tildacdn.com/tild3061-6135-4366-b039-666130643663/-/format/webp/3.png.webp</picture>
         <description>Ландшафтный дизайн во Владимире и области. Архитектурный подход, продуманная структура пространства, 3D-визуализация и авторское сопровождение реализации.</description>
 
@@ -36,7 +31,7 @@
         <param name="Регион">Владимирская область</param>
         <param name="Конверсия">100</param>
 
-        <param name="Ссылка на телефон">+79005816669</param>
+        <param name="Ссылка на телефон" type="URL">tel:+79005816669</param>
         <param name="Ссылка на профиль исполнителя">https://forma-studio.pro/</param>
         <param name="Организация">true</param>
         <param name="Выполняется удаленно">true</param>
@@ -52,7 +47,6 @@
         <price from="true">30000</price>
         <currencyId>RUR</currencyId>
         <categoryId>19</categoryId>
-        <set-ids>s1</set-ids>
         <picture>https://optim.tildacdn.com/tild6261-3233-4432-b066-363962636632/-/format/webp/photo.jpg.webp</picture>
         <description>Проектирование частных садов во Владимирской области. Концепция, планировка, 3D-визуализация и рабочая документация.</description>
 
@@ -62,7 +56,7 @@
         <param name="Регион">Владимирская область</param>
         <param name="Конверсия">95</param>
 
-        <param name="Ссылка на телефон">+79005816669</param>
+        <param name="Ссылка на телефон" type="URL">tel:+79005816669</param>
         <param name="Ссылка на профиль исполнителя">https://forma-studio.pro/</param>
         <param name="Организация">true</param>
         <param name="Выполняется удаленно">true</param>
@@ -78,7 +72,6 @@
         <price from="true">40000</price>
         <currencyId>RUR</currencyId>
         <categoryId>19</categoryId>
-        <set-ids>s1</set-ids>
         <picture>https://optim.tildacdn.com/tild6634-6662-4135-a365-313832353465/-/format/webp/458.jpg.webp</picture>
         <description>Ландшафтный дизайн в Московской области. Проектирование, визуализация и сопровождение реализации.</description>
 
@@ -88,7 +81,7 @@
         <param name="Регион">Московская область</param>
         <param name="Конверсия">90</param>
 
-        <param name="Ссылка на телефон">+79005816669</param>
+        <param name="Ссылка на телефон" type="URL">tel:+79005816669</param>
         <param name="Ссылка на профиль исполнителя">https://forma-studio.pro/</param>
         <param name="Организация">true</param>
         <param name="Выполняется удаленно">true</param>
@@ -104,7 +97,6 @@
         <price from="true">25000</price>
         <currencyId>RUR</currencyId>
         <categoryId>19</categoryId>
-        <set-ids>s1</set-ids>
         <picture>https://optim.tildacdn.com/tild3735-6538-4033-a331-626262613231/-/format/webp/4.png.webp</picture>
         <description>3D-визуализация ландшафтного проекта. Помогает проверить масштаб, композицию и проектные решения до реализации.</description>
 
@@ -114,7 +106,7 @@
         <param name="Регион">Владимирская область</param>
         <param name="Конверсия">92</param>
 
-        <param name="Ссылка на телефон">+79005816669</param>
+        <param name="Ссылка на телефон" type="URL">tel:+79005816669</param>
         <param name="Ссылка на профиль исполнителя">https://forma-studio.pro/</param>
         <param name="Организация">true</param>
         <param name="Выполняется удаленно">true</param>
@@ -130,7 +122,6 @@
         <price from="true">15000</price>
         <currencyId>RUR</currencyId>
         <categoryId>19</categoryId>
-        <set-ids>s1</set-ids>
         <picture>https://static.tildacdn.com/tild6634-3438-4133-a230-633832386263/999.jpg</picture>
         <description>Авторское сопровождение реализации ландшафтного проекта. Контроль соответствия работ проектным решениям и консультации на этапе реализации.</description>
 
@@ -140,7 +131,7 @@
         <param name="Регион">Владимирская область</param>
         <param name="Конверсия">88</param>
 
-        <param name="Ссылка на телефон">+79005816669</param>
+        <param name="Ссылка на телефон" type="URL">tel:+79005816669</param>
         <param name="Ссылка на профиль исполнителя">https://forma-studio.pro/</param>
         <param name="Организация">true</param>
         <param name="Выполняется удаленно">false</param>
@@ -156,7 +147,6 @@
         <price from="true">35000</price>
         <currencyId>RUR</currencyId>
         <categoryId>19</categoryId>
-        <set-ids>s1</set-ids>
         <picture>https://static.tildacdn.com/tild3330-6236-4431-b161-653930613834/69ca6a47f8d9b595a862.jpg</picture>
         <description>Рабочая документация для ландшафтного проекта: генплан, схемы покрытий, освещения, дренажа, посадок и спецификации.</description>
 
@@ -166,7 +156,7 @@
         <param name="Регион">Владимирская область</param>
         <param name="Конверсия">93</param>
 
-        <param name="Ссылка на телефон">+79005816669</param>
+        <param name="Ссылка на телефон" type="URL">tel:+79005816669</param>
         <param name="Ссылка на профиль исполнителя">https://forma-studio.pro/</param>
         <param name="Организация">true</param>
         <param name="Выполняется удаленно">true</param>
